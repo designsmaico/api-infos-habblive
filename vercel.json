@@ -3,7 +3,7 @@
   "functions": {
     "api/perfil.py": {
       "maxDuration": 60,
-      "includeFiles": ["app.py", "client.py"]
+      "includeFiles": "{app.py,client.py}"
     }
   }
 }
